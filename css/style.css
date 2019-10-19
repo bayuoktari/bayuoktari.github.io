@@ -37,6 +37,9 @@ header nav .nav-link li {
   font-weight: 700;
   text-decoration: none;
 }
+.nav-link li:nth-of-type(3) {
+  margin-right: 0px;
+}
 .banner {
   height: 300px;
   background-color: #cccccc;
