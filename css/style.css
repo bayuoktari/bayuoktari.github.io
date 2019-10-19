@@ -65,3 +65,74 @@ header nav .nav-link li {
   position: relative;
   z-index: 2;
 }
+main {
+  padding-top: 20px;
+}
+main h2 {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 5px;
+}
+main .line-title {
+  width: 260px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-bottom: 3px solid #000000;
+}
+main .wrapper {
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-top: 30px;
+}
+main figure {
+  float: left;
+  margin-right: 40px;
+  height: 400px;
+}
+main figure img {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+main article .name {
+  font-size: 35px;
+}
+main article .job-title {
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+main article .contact {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+main article .desc {
+  font-size: 20px;
+  text-align: justify;
+  margin-bottom: 30px;
+}
+main article .find {
+  font-size: 20px;
+}
+main article ul li {
+  display: inline;
+  list-style: none;
+  margin-right: 20px;
+}
+main article ul li a {
+  text-decoration: none;
+}
+main article ul li a img {
+  width: 35px;
+  margin-top: 20px;
+  filter: grayscale(100%);
+}
+main article ul li a img:hover {
+  filter: none;
+  transform: scale(1.3);
+}
