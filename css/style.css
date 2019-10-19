@@ -136,3 +136,14 @@ main article ul li a img:hover {
   filter: none;
   transform: scale(1.3);
 }
+footer {
+  background-color: #3b5998;
+  clear: left;
+  height: 60px;
+  padding-top: 22px;
+}
+footer .copyright {
+  text-align: center;
+  color: #fff;
+  font-weight: 500;
+}
