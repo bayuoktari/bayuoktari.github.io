@@ -227,6 +227,13 @@ main article ul li a img:hover {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+.back-home {
+  text-align: center;
+  margin-top: 20px;
+}
+.back-home a {
+  color: #ffff;
+}
 form {
   text-align: center;
 }
